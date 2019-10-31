@@ -12,7 +12,7 @@ class Lesson2 {
      * хвост отбрасываем без откругления
      */
     static int formula(int x) {
-        return 0;
+        return (int)Math.sqrt(13*x + 13/x);
     }
 
     /**
