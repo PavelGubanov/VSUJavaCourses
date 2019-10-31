@@ -28,8 +28,11 @@ class Lesson2 {
      *
      * @return возвращаем инициалы в верхнем регистре разделенные точкой, как в примере выше
      */
-    static String initials(String fullName) {
-        return null;
+    static String initials(String fullName)
+    {
+        String[] PartsOfFIO = fullName.split(" ");
+        String result = PartsOfFIO[0].charAt(0)+"."+PartsOfFIO[1].charAt(0)+"."+PartsOfFIO[2].charAt(0)+".";
+        return result.toUpperCase();
     }
 
 }
