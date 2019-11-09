@@ -20,12 +20,12 @@ public class Lesson4_FlowControl {
      * @return самую длинную строку из полученного массива
      */
     public static String task1(String[] strings) {
-        String Result = "";
+        String result = "";
         for (String tmp: strings) {
-            if (tmp.length() > Result.length())
-                Result = tmp;
+            if (tmp.length() > result.length())
+                result = tmp;
         }
-        return Result;
+        return result;
     }
 
     /**

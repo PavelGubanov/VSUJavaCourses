@@ -24,9 +24,7 @@ public class Lesson3_Operators {
             str = i + str;
              else
                  str = "0";
-        if (str.length() <= 10)
-            return str;
-        return str.substring(0, 10);
+        return (str.length() <= 10) ? str : str.substring(0, 10);
     }
 
     /**
