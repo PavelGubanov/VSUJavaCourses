@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ecc501-8ca0-4847-ada9-9dacaf957e3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/NetworkOfFishMarkets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson3_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson3_Operators.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,46 +18,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson3_Operators.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson3_OperatorsTest.java">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson4_FlowControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+            <state relative-caret-position="270">
+              <caret line="91" column="50" lean-forward="true" selection-start-line="91" selection-start-column="50" selection-end-line="91" selection-end-column="50" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2301#2302#0" expanded="true" />
+                <element signature="e#2325#2326#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson4_FlowControlTest.java">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson5to8_OOP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/NetworkOfFishMarkets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,8 +73,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson2.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson4_FlowControl.java" />
         <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson3_Operators.java" />
+        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson4_FlowControl.java" />
+        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket.java" />
+        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/NetworkOfFishMarkets.java" />
       </list>
     </option>
   </component>
@@ -118,8 +128,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,7 +141,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -268,16 +278,17 @@
       <option name="project" value="LOCAL" />
       <updated>1573306538194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix TernaryReturn and SmallNames">
+      <created>1573317660300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573317660300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Lesson3_OperatorsTest_task2 - 2019.11.09 at 11h 10m 09s.xml">
-      <configuration name="Lesson3_OperatorsTest.task2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Lesson3_OperatorsTest_task2 - 2019.11.09 at 11h 12m 34s.xml">
-      <configuration name="Lesson3_OperatorsTest.task2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Lesson3_OperatorsTest_task2 - 2019.11.09 at 11h 14m 38s.xml">
       <configuration name="Lesson3_OperatorsTest.task2" configurationId="JUnit" />
     </history-entry>
@@ -302,12 +313,18 @@
     <history-entry file="Lesson3_OperatorsTest_task2 - 2019.11.09 at 16h 33m 06s.xml">
       <configuration name="Lesson3_OperatorsTest.task2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Lesson3_OperatorsTest_task1 - 2019.11.09 at 19h 38m 19s.xml">
+      <configuration name="Lesson3_OperatorsTest.task1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson4_FlowControlTest_task1test - 2019.11.09 at 19h 39m 27s.xml">
+      <configuration name="Lesson4_FlowControlTest.task1test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.262945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27508092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,7 +356,8 @@
     <MESSAGE value="FixTask1" />
     <MESSAGE value="FixTask1AndTask2" />
     <MESSAGE value="FixLesson3AndLesson4" />
-    <option name="LAST_COMMIT_MESSAGE" value="FixLesson3AndLesson4" />
+    <MESSAGE value="Fix TernaryReturn and SmallNames" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix TernaryReturn and SmallNames" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson5to8_OOPTest.java">
@@ -356,6 +374,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson3_OperatorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket" />
+    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson4_FlowControlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson3_Operators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
@@ -363,34 +403,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson4_FlowControlTest.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson4_FlowControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+        <state relative-caret-position="442">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson3_Operators.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/NetworkOfFishMarkets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson3_OperatorsTest.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson5to8_OOP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="91" column="50" lean-forward="true" selection-start-line="91" selection-start-column="50" selection-end-line="91" selection-end-column="50" />
+          <folding>
+            <element signature="e#2301#2302#0" expanded="true" />
+            <element signature="e#2325#2326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
