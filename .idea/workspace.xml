@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19ecc501-8ca0-4847-ada9-9dacaf957e3e" name="Default Changelist" comment="Create FishMarket">
+    <list default="true" id="5b7c05fe-cdd1-4b87-b92d-7de26329b325" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson2Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,58 +17,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket.java">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson5to8_OOPTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1804">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
-              <folding>
-                <element signature="e#2301#2302#0" expanded="true" />
-                <element signature="e#2325#2326#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson5to8_OOP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson5to8_OOPTest.java">
+        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson5to8_OOP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/NetworkOfFishMarkets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="491">
+              <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,11 +48,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson2.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson3_Operators.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson4_FlowControl.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket.java" />
-        <option value="$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/NetworkOfFishMarkets.java" />
+        <option value="$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson2Test.java" />
       </list>
     </option>
   </component>
@@ -85,29 +58,65 @@
     <option name="width" value="1260" />
     <option name="height" value="720" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="sport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaCourses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VSUJavaCourses" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="courses" type="462c0819:PsiDirectoryNode" />
@@ -116,8 +125,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,11 +133,6 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,8 +146,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Lesson4_FlowControlTest.task1test">
-    <configuration name="Lesson2Test.initials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Lesson4_FlowControlTest">
+    <configuration name="Lesson2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -155,13 +157,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.java.courses" />
       <option name="MAIN_CLASS_NAME" value="ru.java.courses.Lesson2Test" />
-      <option name="METHOD_NAME" value="initials" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson3_OperatorsTest.task1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson3_OperatorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -171,29 +172,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.java.courses" />
       <option name="MAIN_CLASS_NAME" value="ru.java.courses.Lesson3_OperatorsTest" />
-      <option name="METHOD_NAME" value="task1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson3_OperatorsTest.task2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.java.courses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.java.courses" />
-      <option name="MAIN_CLASS_NAME" value="ru.java.courses.Lesson3_OperatorsTest" />
-      <option name="METHOD_NAME" value="task2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson4_FlowControlTest.task1test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson4_FlowControlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -203,35 +187,16 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.java.courses" />
       <option name="MAIN_CLASS_NAME" value="ru.java.courses.Lesson4_FlowControlTest" />
-      <option name="METHOD_NAME" value="task1test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson4_FlowControlTest.task2test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.java.courses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.java.courses" />
-      <option name="MAIN_CLASS_NAME" value="ru.java.courses.Lesson4_FlowControlTest" />
-      <option name="METHOD_NAME" value="task2test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Lesson4_FlowControlTest.task1test" />
-        <item itemvalue="JUnit.Lesson3_OperatorsTest.task1" />
-        <item itemvalue="JUnit.Lesson3_OperatorsTest.task2" />
-        <item itemvalue="JUnit.Lesson4_FlowControlTest.task2test" />
-        <item itemvalue="JUnit.Lesson2Test.initials" />
+        <item itemvalue="JUnit.Lesson4_FlowControlTest" />
+        <item itemvalue="JUnit.Lesson3_OperatorsTest" />
+        <item itemvalue="JUnit.Lesson2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -240,269 +205,109 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="19ecc501-8ca0-4847-ada9-9dacaf957e3e" name="Default Changelist" comment="" />
-      <created>1572514954708</created>
+      <changelist id="5b7c05fe-cdd1-4b87-b92d-7de26329b325" name="Default Changelist" comment="" />
+      <created>1575753054794</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572514954708</updated>
+      <updated>1575753054794</updated>
     </task>
-    <task id="LOCAL-00001" summary="FixTask1">
-      <created>1572518576650</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1572518576650</updated>
-    </task>
-    <task id="LOCAL-00002" summary="FixTask1AndTask2">
-      <created>1572544810365</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1572544810365</updated>
-    </task>
-    <task id="LOCAL-00003" summary="FixLesson3AndLesson4">
-      <created>1573306538194</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1573306538194</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Fix TernaryReturn and SmallNames">
-      <created>1573317660300</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1573317660300</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Create FishMarket">
-      <created>1575271042072</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1575271042072</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Lesson3_OperatorsTest_task2 - 2019.11.09 at 11h 14m 38s.xml">
-      <configuration name="Lesson3_OperatorsTest.task2" configurationId="JUnit" />
+    <history-entry file="Lesson2Test - 2019.12.08 at 00h 12m 57s.xml">
+      <configuration name="Lesson2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson3_OperatorsTest_task2 - 2019.11.09 at 11h 17m 00s.xml">
-      <configuration name="Lesson3_OperatorsTest.task2" configurationId="JUnit" />
+    <history-entry file="Lesson3_OperatorsTest - 2019.12.08 at 00h 13m 27s.xml">
+      <configuration name="Lesson3_OperatorsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson4_FlowControlTest_task1test - 2019.11.09 at 11h 48m 56s.xml">
-      <configuration name="Lesson4_FlowControlTest.task1test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Lesson4_FlowControlTest_task2test - 2019.11.09 at 11h 59m 22s.xml">
-      <configuration name="Lesson4_FlowControlTest.task2test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Lesson4_FlowControlTest_task2test - 2019.11.09 at 16h 28m 00s.xml">
-      <configuration name="Lesson4_FlowControlTest.task2test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Lesson4_FlowControlTest_task2test - 2019.11.09 at 16h 28m 35s.xml">
-      <configuration name="Lesson4_FlowControlTest.task2test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Lesson3_OperatorsTest_task1 - 2019.11.09 at 16h 32m 57s.xml">
-      <configuration name="Lesson3_OperatorsTest.task1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Lesson3_OperatorsTest_task2 - 2019.11.09 at 16h 33m 06s.xml">
-      <configuration name="Lesson3_OperatorsTest.task2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Lesson3_OperatorsTest_task1 - 2019.11.09 at 19h 38m 19s.xml">
-      <configuration name="Lesson3_OperatorsTest.task1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Lesson4_FlowControlTest_task1test - 2019.11.09 at 19h 39m 27s.xml">
-      <configuration name="Lesson4_FlowControlTest.task1test" configurationId="JUnit" />
+    <history-entry file="Lesson4_FlowControlTest - 2019.12.08 at 00h 13m 40s.xml">
+      <configuration name="Lesson4_FlowControlTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14239483" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32919255" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32919255" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="FixTask1" />
-    <MESSAGE value="FixTask1AndTask2" />
-    <MESSAGE value="FixLesson3AndLesson4" />
-    <MESSAGE value="Fix TernaryReturn and SmallNames" />
-    <MESSAGE value="Create FishMarket" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create FishMarket" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson3_OperatorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket" />
-    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson4_FlowControlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson3_Operators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson1.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson4_FlowControl.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="51">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/FishMarket.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson3_OperatorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1804">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-          <folding>
-            <element signature="e#2301#2302#0" expanded="true" />
-            <element signature="e#2325#2326#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="127">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson5to8_OOP.java">
+    <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson4_FlowControlTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/NetworkOfFishMarkets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="127">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/src/test/java/ru/java/courses/Lesson5to8_OOPTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/src/main/java/ru/java/courses/Lesson5to8_OOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>13</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
