@@ -25,10 +25,6 @@ public class Coach {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public int getExperience() {
         return experience;
     }

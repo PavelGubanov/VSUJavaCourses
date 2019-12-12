@@ -1,6 +1,6 @@
 package ru.java.courses.sport.team.football;
 
-public enum PlayerRole {
+public enum  PlayerRole {
 
     GOALKEEPER("Вратарь"),
     DEFENDER("Защитник"),
