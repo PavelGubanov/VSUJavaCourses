@@ -1,5 +1,5 @@
 package ru.java.courses.patterns.builder;
-
+//POJO class
 public class Book {
 
     private String author;

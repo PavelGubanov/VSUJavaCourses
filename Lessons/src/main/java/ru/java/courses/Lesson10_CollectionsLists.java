@@ -19,9 +19,23 @@ public class Lesson10_CollectionsLists {
      * Удалять элементы из итерируемого списка нельзя - выпадет исключение
      */
     public static List<String> task1(List<Integer> source) {
-        // свой код нужно писать тут
-        // следующую строку можно удалять
-        return null;
+        List<Integer> tmpInt = new ArrayList<>(source);
+        Collections.sort(tmpInt);
+        int i = 0;
+        while (i < tmpInt.size() - 1){
+            if (tmpInt.get(i) == tmpInt.get(i + 1)){
+                tmpInt.remove(i + 1);
+            }
+            else {
+                i++;
+            }
+        }
+
+        List<String> resultList = new ArrayList();
+        for (Integer n : tmpInt){
+            resultList.add(n.toString());
+        }
+        return resultList;
     }
 
     /**
@@ -34,8 +48,20 @@ public class Lesson10_CollectionsLists {
      * Подсказка: на входе может быть любое количество чисел
      */
     public static List<Integer> task2(Integer... array) {
-        // свой код нужно писать тут
-        // следующую строку можно удалять
-        return null;
+        List<Integer> inputArrayList = new ArrayList<Integer>(Arrays.asList(array));
+        int k = 0;
+        for (Integer i : inputArrayList){
+            if (i % 2 == 0){
+                inputArrayList.set(k, i + 1);
+            }
+            k++;
+        }
+        k = 3;
+        List<Integer> result = new ArrayList<Integer>();
+        while ((k < inputArrayList.size()) && (k < 8)){
+            result.add(inputArrayList.get(k));
+            k++;
+        }
+        return result;
     }
 }
